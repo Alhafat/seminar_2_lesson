@@ -10,4 +10,4 @@ int a3 =number%10;
 
 int result=a1*10+a2;
 
-Console.WriteLine(result);
+Console.WriteLine($"Трехзначное число {number} --> {result}");
